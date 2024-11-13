@@ -1,0 +1,26 @@
+.main{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.login{
+    background-color: rgb(64, 255, 47)!important;
+    font-size: larger;
+    border-color:rgb(64, 255, 47)!important ;
+}
+.card-main
+{
+background-color:whitesmoke;
+}
+body{
+    background-color:lightgray ;
+}
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label{
+    font-weight: bold;
+}
+.buton{
+    background-color: rgba(0, 0, 0, 0.384);
+}
